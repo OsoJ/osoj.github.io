@@ -2,10 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osoj.github.io</id>
     <title>05o4x</title>
-    <updated>2020-08-05T11:41:30.779Z</updated>
+    <updated>2020-08-05T11:48:34.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://osoj.github.io"/>
     <link rel="self" href="https://osoj.github.io/atom.xml"/>
+    <subtitle>没用的好人</subtitle>
     <logo>https://osoj.github.io/images/avatar.png</logo>
     <icon>https://osoj.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 05o4x</rights>
