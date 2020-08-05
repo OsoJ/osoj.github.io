@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osoj.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-05T11:36:19.488Z</updated>
+    <title>05o4x</title>
+    <updated>2020-08-05T11:41:30.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://osoj.github.io"/>
     <link rel="self" href="https://osoj.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://osoj.github.io/images/avatar.png</logo>
     <icon>https://osoj.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 05o4x</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://osoj.github.io/post/test/</id>
         <link href="https://osoj.github.io/post/test/">
         </link>
         <updated>2020-08-05T11:34:51.000Z</updated>
-        <content type="html"><![CDATA[<p>just a test</p>
-]]></content>
     </entry>
 </feed>
